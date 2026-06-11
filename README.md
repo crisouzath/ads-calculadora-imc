@@ -71,7 +71,6 @@ https://www.youtube.com/watch?v=lkfqW6z7B6I
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
 └── README.md
 ```
 
